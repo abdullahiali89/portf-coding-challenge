@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  height: 85vh;
+}
+.Filters {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
 }
 
 .App-logo {
